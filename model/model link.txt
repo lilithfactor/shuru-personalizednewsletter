@@ -1,0 +1,3 @@
+get recent model and tokenizer from : https://www.kaggle.com/datasets/pronox/t5s-summarization
+
+this file cant be uploaded to  github since the size (230.85 MB) exceeds limit (100 MB)
